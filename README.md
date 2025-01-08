@@ -1,4 +1,4 @@
-# SQL_Airline_analyze 
+# SQL_Airline_analysis  
 
 Title: "Optimizing Airline Operations Through Advanced SQL Analytics"
 
